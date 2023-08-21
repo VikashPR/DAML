@@ -555,14 +555,14 @@ section {
 # Index Page
 --------------------------------------------------------------*/
 /*--------------------------------------------------------------
-# About
+# dashboard
 --------------------------------------------------------------*/
-.about .content {
+.dashboard .content {
   background-color: #f6f9ff;
   padding: 40px;
 }
 
-.about h1 {
+.dashboard h1 {
   font-weight: 700;
   color: #4154f1;
   text-transform: uppercase;
