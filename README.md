@@ -20,4 +20,3 @@ https://github.com/VikashPR/DAML-Dashboard/assets/69889418/e0953905-bf8e-45f8-ad
 
 - [Link](https://docs.google.com/spreadsheets/d/1CLaBISgDlRRIo8o2_Jta82qnq63Jw-H0oa2XoWm0LA8/edit?usp=sharing)
 
-
